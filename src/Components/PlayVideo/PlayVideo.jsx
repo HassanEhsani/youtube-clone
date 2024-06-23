@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 import React from 'react'
 import './PlayVideo.css'
 import video1 from '../../assets/video.mp4'

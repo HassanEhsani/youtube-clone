@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 import React from 'react'
 import './Recomended.css'
 import thumbnail1 from '../../assets/thumbnail1.png'
